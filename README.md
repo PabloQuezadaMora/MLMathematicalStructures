@@ -1,4 +1,4 @@
-# MLMathematicalStructures
+# Machine Learning Mathematical Structures
 We will try to apply the ideas behind the article "Machine-Learning Mathematical Structures" by Yang-Hui He. 
 For this, we will try to implement a Machine learning algorithm for each of the problem proposed in section 3.
 Each Jupyter Notebook will be a different problem.
